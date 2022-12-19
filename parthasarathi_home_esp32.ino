@@ -1,5 +1,5 @@
 /*************************************************************************************************
- *  Created By: Tauseef Ahmad
+ *  Created By: Parthasarathi kundu
  *  Created On: 28 July, 2022
  *  
  *  YouTube Video: https://youtu.be/inVhQaKLdlk
@@ -25,7 +25,7 @@
 #include <ezButton.h>
 #include <IRremote.h>
 //---------------------------------------------------
-const char *service_name = "Ahmad_Logs";
+const char *service_name = "kundu_home";
 const char *pop = "12345678";
 //---------------------------------------------------
 #define EEPROM_SIZE 8
